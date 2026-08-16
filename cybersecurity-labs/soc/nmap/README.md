@@ -1,0 +1,2 @@
+*Scan sẽ gửi rất nhiều SYN packet đến mọi cổng, cổng nào mở sẽ gửi về SYN/ACK, công nào đóng sẽ gửi về RST/ACK
+Firewall/IDS có thể phat hiện qua dấu hiệu: 1 source IP gửi số lượng lớn SYN đến nhiều cổng trong một khoảng thời gian rất ngắn.
